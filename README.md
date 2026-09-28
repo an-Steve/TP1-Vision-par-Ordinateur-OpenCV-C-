@@ -161,63 +161,64 @@ Captures d'écran issues du rapport `Rapport_TD1_Vision_par_ordinateur_-_ANTON_N
 
 ### Menu principal (exercice 14)
 
-![Menu principal (exercice 14)](screenshots/menu.png)
+<img width="750" height="296" alt="image" src="https://github.com/user-attachments/assets/c50587d9-01d7-4459-8889-a8e7d6d1036d" />
+
 
 ### Exercice 1 – Chargement et affichage d'une image
 
-![Exercice 1 – Chargement et affichage d'une image](screenshots/exo1.png)
+<img width="752" height="385" alt="image" src="https://github.com/user-attachments/assets/8cdb62db-302d-4bae-9ab2-5f406fb3524c" />
 
 ### Exercice 2 – Filtrage linéaire
 
-![Exercice 2 – Filtrage linéaire](screenshots/exo2.png)
+<img width="752" height="385" alt="image" src="https://github.com/user-attachments/assets/0be587b1-312f-452e-b042-a126079fcb81" />
 
 ### Exercice 3 – Lissage de l'image
 
-![Exercice 3 – Lissage de l'image](screenshots/exo3.png)
+<img width="747" height="390" alt="image" src="https://github.com/user-attachments/assets/b01e8827-c305-43cd-9615-531b5ad62726" />
 
 ### Exercice 4 – Morphologie mathématique
 
-![Exercice 4 – Morphologie mathématique](screenshots/exo4.png)
+<img width="661" height="330" alt="image" src="https://github.com/user-attachments/assets/fce8ffb4-e000-4c58-afc2-f5f58353b2c1" />
 
 ### Exercice 5 – Seuillage de l'image
 
-![Exercice 5 – Seuillage de l'image](screenshots/exo5.png)
+<img width="752" height="385" alt="image" src="https://github.com/user-attachments/assets/73082571-09c5-4882-b5da-f54dd7a8f6cb" />
 
 ### Exercice 6 – Détection de contours (Laplacien / Canny)
 
-![Exercice 6 – Détection de contours (Laplacien / Canny)](screenshots/exo6.png)
+<img width="757" height="420" alt="image" src="https://github.com/user-attachments/assets/003f7d74-800a-4686-84cc-9fce912877e8" />
 
 ### Exercice 7 – Égalisation d'histogramme
 
-![Exercice 7 – Égalisation d'histogramme](screenshots/exo7.png)
+<img width="755" height="320" alt="image" src="https://github.com/user-attachments/assets/489d4dba-2fe1-4042-be49-270c0433d152" />
 
 ### Exercice 8 – Appariement d'images
 
-![Exercice 8 – Appariement d'images](screenshots/exo8.png)
+<img width="750" height="365" alt="image" src="https://github.com/user-attachments/assets/b4f95447-7670-42cc-b160-9924aeea5061" />
 
 ### Exercice 9 – Détection de contours (findContours)
 
-![Exercice 9 – Détection de contours (findContours)](screenshots/exo9.png)
+<img width="755" height="337" alt="image" src="https://github.com/user-attachments/assets/4315ff37-cddc-42d9-bb95-8dc4081a3ade" />
 
 ### Exercice 10 – Enveloppe convexe
 
-![Exercice 10 – Enveloppe convexe](screenshots/exo10.png)
+<img width="751" height="382" alt="image" src="https://github.com/user-attachments/assets/d702c46a-a607-454d-bf86-810157917f5e" />
 
 ### Exercice 11 – Appariement des descripteurs (ORB)
 
-![Exercice 11 – Appariement des descripteurs (ORB)](screenshots/exo11.png)
+<img width="745" height="355" alt="image" src="https://github.com/user-attachments/assets/15c42521-0650-4be6-a2aa-4a5cdb9fae97" />
 
 ### Exercice 12 – Classification de points avec SVM
 
-![Exercice 12 – Classification de points avec SVM](screenshots/exo12.png)
+<img width="752" height="382" alt="image" src="https://github.com/user-attachments/assets/5a506a07-442e-40b8-a01a-6a544cd6b124" />
 
 ### Exercice 13 – Lecture vidéo et interface graphique
 
-![Exercice 13 – Lecture vidéo et interface graphique](screenshots/exo13.png)
+<img width="750" height="387" alt="image" src="https://github.com/user-attachments/assets/3adb2fce-f262-4ec5-9816-609dad4f9642" />
 
 ### Exercice 14 – Gestion d'un choix invalide dans le menu
 
-![Exercice 14 – Gestion d'un choix invalide dans le menu](screenshots/exo14.png)
+<img width="462" height="235" alt="image" src="https://github.com/user-attachments/assets/62e215d8-5f3a-4f21-8337-8be50221c0a1" />
 
 ---
 

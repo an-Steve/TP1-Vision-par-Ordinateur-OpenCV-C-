@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/logo_paris8.png" alt="Université Paris 8" width="220">
-</p>
-
 # TP1 – Vision par Ordinateur (OpenCV / C++)
 
 Travaux pratiques de **Vision par Ordinateur** réalisés dans le cadre du **Master 2 Intelligence Artificielle** à l'**Université Paris 8 Vincennes-Saint-Denis**.
